@@ -1,0 +1,29 @@
+Bory{
+  Background-color#1d4221;
+  Color:white;
+  Font-Family:"Bai jamjure",sans.senf;
+  Display:Flex;
+  Justify-content:center;
+  Aligh-itens:center;
+  Heigh.700px;
+  Margin:0;
+}
+button{
+    background-color:#64A712;
+    color:white;
+    Font-Family:"Bai Jamjure",sans-serif;
+  }
+  Passo{
+    Disply:none;
+  }
+  Passo.ativo{
+    Display:Block;
+  }
+  Main{
+    Text-Align:center;
+    May-width:90%;
+  }
+  Img{
+    Max-width:905:
+}
+  
